@@ -7,6 +7,10 @@ body {
     opacity: 1;
   }
 
+section[id] {
+    scroll-margin-top: 50px;
+}
+
 .navbar {
     background-color: #002b5c; /* Cambia este color por el que desees */
 }
